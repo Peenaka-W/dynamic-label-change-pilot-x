@@ -1,7 +1,9 @@
-Dynamic Label Change Pilot Project
-Overview
+##Dynamic Label Change Pilot Project
+
+
 This repository contains a backend application built with Spring Boot and a frontend application developed using React and TypeScript. The project is designed to manage label personalization for different modules, screens, and tenants.
-Project Structure
+
+##Project Structure
 Backend
 
 src/main/java/org/backend: Main source directory for the backend.
@@ -31,7 +33,7 @@ types: TypeScript type definitions.
 
 package.json: Node.js package configuration.
 
-Setup
+##Setup
 Prerequisites
 
 Java 17
@@ -50,7 +52,7 @@ Navigate to the frontend directory.
 Run npm install to install dependencies.
 Start the development server with npm run dev.
 
-APIs
+##APIs
 Get All Labels
 
 Endpoint: GET http://localhost:8080/fusionX/{{moduleName}}/{{tenantId}}/{{screenName}}/labels
