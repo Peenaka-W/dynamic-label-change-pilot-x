@@ -37,7 +37,7 @@ This repository contains a backend application built with Spring Boot and a fron
 - MySQL
 
 ### Backend Setup
-1. Configure `application.properties` with your MySQL database details.
+1. Configure `application.properties` with your MySQL database details.  ( Run the query on SQL Server: "CREATE DATABASE fusionxlabel;" )
 2. Run `mvn clean install` to build the project.
 3. Start the application using `mvn spring-boot:run` or run `BackendApplication.java` in your IDE.
 
