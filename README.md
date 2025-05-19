@@ -1,5 +1,5 @@
 
-# Backend and Frontend Project
+# Dynamic Label Change Pilot Project
 
 ## Overview
 This repository contains a backend application built with Spring Boot and a frontend application developed using React and TypeScript. The project is designed to manage label personalization for different modules, screens, and tenants.
